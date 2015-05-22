@@ -17,3 +17,4 @@
 /tmp
 
 /node/node_modules/*
+/vendor/bundle/*
